@@ -1,0 +1,12 @@
+{
+ "Version": "2012-10-17",
+ "Statement": [
+  {
+   "Effect": "Allow",
+   "Principal": {
+   "Federated": "arn:aws:iam::458869458902:oidc-provider/s3.us-east-2.amazonaws.com/forzzainter-oidc"
+   },
+   "Action": "sts:AssumeRoleWithWebIdentity"
+  }
+ ]
+}

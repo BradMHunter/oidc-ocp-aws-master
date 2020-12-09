@@ -1,0 +1,9 @@
+{
+    "Url": "https://s3.us-east-2.amazonaws.com/forzzainter-oidc",
+    "ClientIDList": [
+        "sts.amazonaws.com"
+    ],
+    "ThumbprintList": [
+        "0A7B8AB4F0C3B14863133F59D0EC8F6F4A087F20"
+    ]
+}
